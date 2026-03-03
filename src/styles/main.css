@@ -19,6 +19,12 @@
     border-color: var(--color-gray-200, currentcolor);
   }
 }
+@media screen and (min-width: 900px) {  
+
+    width: 60%;
+    margin: 0 auto;
+}
+
 li {
     padding: .5em 0;
 }
